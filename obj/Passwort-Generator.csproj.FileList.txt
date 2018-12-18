@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Passwort_Generator.MainForm.resources
+obj\Debug\Passwort-Generator.csproj.GenerateResource.Cache
+bin\Debug\Passwort-Generator.exe
+bin\Debug\Passwort-Generator.pdb
+obj\Debug\Passwort-Generator.exe
+obj\Debug\Passwort-Generator.pdb
